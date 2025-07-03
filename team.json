@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dr. Amina El Idrissi",
+    "role": "Lab Director",
+    "bio": "Expert in plant molecular biology and biotechnology.",
+    "photo": "amina.jpg"
+  },
+  {
+    "name": "Prof. Youssef Benali",
+    "role": "Senior Researcher",
+    "bio": "Focuses on integrative plant physiology and stress responses.",
+    "photo": "youssef.jpg"
+  },
+  {
+    "name": "Mohamed BELACHKAR",
+    "role": "Master Student",
+    "bio": "Recherche axée sur le biocontrôle des maladies des plantes causées par des agents pathogènes.",
+    "photo": "mohamed-belachkar.jpg"
+  }
+] 
